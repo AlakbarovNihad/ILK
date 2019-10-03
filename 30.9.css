@@ -1,0 +1,292 @@
+body{
+    margin: 0;
+    padding: 0
+}
+.wrapper{
+    width: 70%;
+    margin: auto;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.button{
+    background-color: rgb(168, 45, 73);";    
+}
+a{
+    text-decoration: none;
+}
+.nav-menu{list-style: none;
+}
+.nav-menu li{
+    float: left;
+    padding: 17px;
+}
+.nav-menu li a{
+    color: rgb(168, 45, 73)
+}    
+.button a{
+    color: white  !important;
+}
+.btext{
+    background-image:url(http://demo.tutsflow.com/foodera/images/bg/3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+.text{
+    padding: 260px 0;
+    margin-left: 300px
+}
+.Order{
+    background-color: rgb(168, 45, 73);
+    border: 10px solid rgb(168, 45, 73);
+    font-size: 20px;
+    color: white
+}
+.Learn{
+    font-size: 20px;
+    background-color: whitesmoke;
+    border:10px solid whitesmoke;
+    color: black
+}
+header{position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+}
+.text1{
+    font-size: 50px
+}
+.container1{
+    display: grid;
+    grid-template-columns: auto auto auto auto
+}
+.num4s{
+    background-color: rgb(168, 45, 73);
+    text-align: center;
+    padding: 70px 0
+}
+.p6{
+    font-size: 20px
+}
+.h16{
+    font-size: 30px
+}
+.text5{
+    padding-left: 50px
+}
+.img3{
+    float: right;
+    margin-right: -50px;
+    margin-top: -400px;
+    width: 800px;
+}
+.text6{
+    margin-left: 100px;
+    font-size: 20px
+}
+.container4{
+    width: 90%
+}
+.Learn5{
+    background-color: rgb(168, 45, 73);
+    border: 20px solid rgb(168, 45, 73);
+    color: white;
+}
+.learn1{
+    margin-top: 50px
+}
+
+   .text10{
+       background-image: url(http://demo.tutsflow.com/foodera/images/parallax/1.jpg);
+      
+    background-size:cover;
+    
+    height: 400px;
+    width: 850px;
+    margin-right: 0px;
+    float:right
+   }
+   .paz2{
+       color: black
+   }
+   .paz3{
+     margin-left: 140px;
+     margin-top: 30px;
+     font-size: 25px;
+   }
+   .paz5{
+       margin-left: 600px;
+   }
+   .paz7{
+    margin-top: 100px
+   }
+   .paz6{
+    margin-top: 10px;
+    float: right;
+    
+    margin-right:350px
+   }
+   .exp{
+    margin-top: 100px
+}
+  .wekil1{
+      width: 30%;
+      border-radius: 10%;
+      
+  }
+  .wekil2{
+      width: 30%;
+      border-radius: 10%;
+      padding-left: 20px;
+      
+  }
+  .wekil3{
+      width:30%;
+      border-radius: 10%;
+      padding-left: 20px
+      
+  }
+  .wekiller{
+      text-align: center;
+      
+  }
+  .lazimli{
+      margin-top: 150px
+  }
+  .metn1{
+      margin-left: 80px
+  }
+  .metn2{
+      text-align: center;
+      margin-top: -160px
+  }
+  .metn3{
+      float: right;
+      margin-top: -180px;
+      margin-right: 50px
+  }
+.Order11{
+    text-align: center;
+    background-color: rgb(168, 45, 73);
+    border: 10px solid rgb(168, 45, 73);
+    width: 100px;
+    font-size: 20px;
+    margin-left:580px;
+    margin-top: -10px
+}
+.order12{
+    color: white
+}
+.testi{
+    text-align: center;
+    margin-top: 100px;
+    background-color: brown;
+    padding-bottom: 70px
+    
+}
+.testi3{
+    font-size: 50px;
+    color: white;
+    padding-top: 50px;
+    
+
+}
+.testi2{
+    background-color:white;
+    padding: 40px;
+    margin: 0 200px;
+    border-radius: 30px
+}
+.testi2 img{border-radius: 50%;
+    width: 100px
+}
+.testi2 p{
+    font-size: 20px
+}
+.simab{
+    color: rgb(168, 45, 73)
+}
+.freq0{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px
+}
+.freq1{
+    margin-left: 90px
+}
+    .freq2{
+        margin-left: 90px
+    }
+    .freq3{
+        float: right;
+        margin-top: -180px
+
+    }
+    .freq4{
+        float: right;
+        margin-top: -90px
+    }
+    .baked{
+        background-image: url(http://demo.tutsflow.com/foodera/images/parallax/2.jpg);
+        height: 150px
+        
+    }
+.baked a{border: 10px solid rgb(168, 45, 73);
+    color:white;
+    background-color: rgb(168, 45, 73);
+    font-size: 20px;
+    margin-left: 900px;
+
+}
+.fresh{
+    margin-left: 80px;
+    padding-top: 50px;
+    color: white
+
+}
+.End{
+    text-align: center
+}
+.End h1{
+    font-size: 30px
+}
+.End a{
+    border: 10px solid rgb(168, 45, 73);
+    background-color: rgb(168, 45, 73);
+    color: white;
+    float: right;
+    margin-right: 400px;
+    margin-top: -30px;
+    padding: 0 40px
+}
+.end2{
+    background-color: rgb(168, 45, 73);
+    height: 300px;
+    margin-top: 80px
+}
+.end2 a{
+    color: white;
+    padding: 10px;
+}
+.sdiv{
+margin-left: 500px;
+padding-top: 60px
+}
+.eee{
+    margin-top: 50px;
+    text-align: center;
+    color: white
+
+}
+.icondiv{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-size: 20px;
+    
+}
+ 
+
